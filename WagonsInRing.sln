@@ -5,7 +5,12 @@ VisualStudioVersion = 17.7.33927.210
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WagonsInRing", "WagonsInRing\WagonsInRing.csproj", "{EFE91BF8-6350-4B1D-B47B-10E35FBC0900}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WagonsInRingTests", "WagonsInRingTests\WagonsInRingTests.csproj", "{94EFC963-F834-4098-8FA6-76615BA49B24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WagonsInRingTests", "WagonsInRingTests\WagonsInRingTests.csproj", "{94EFC963-F834-4098-8FA6-76615BA49B24}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{2D174106-A8DF-4975-9977-3CD01B0676F1}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\Задачи.docx = ..\..\..\Downloads\Задачи.docx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
